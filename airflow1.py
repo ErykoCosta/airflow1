@@ -19,4 +19,6 @@ def pipeline():
     print('Pipeline finalizada')
     
 if __name__ == '__main__':
-    pipeline()
+    # while True:  
+        pipeline()
+        # sleep(5)
